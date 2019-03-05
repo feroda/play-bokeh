@@ -24,6 +24,10 @@ javascript.
 
 ## Come eseguire il codice
 
+Installare i requisti con `pip install -r requirements.txt`
+
+e poi eseguire
+
 `bokeh serve --show myfake2dplot.py`
 
 o
